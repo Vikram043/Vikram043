@@ -1,19 +1,21 @@
 <img src=https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif width="9000" height="200">
 <h1 align="center">Hi 👋, I'm Vikram</h1>
 <h3 align="center">A passionate Node.js backend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikram043&label=Profile%20views&color=0e75b6&style=flat" alt="vikram043" /> </p>
+<br>
+<pre>
+<img align="right" alt="Coding" width="450" src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif">
 <a href="https://vikram043.github.io/"<p>Portfolio -https://vikram043.github.io/</p></a>
 🌱 I’m currently learning Node.js
-
-💬 Ask me about JAVASCRIPT, HTML, CSS, Node JS ,Express Js
-
-📫 How to reach me knowme962@gmail.com
-
-📄 Know about my experiences https://drive.google.com/file/d/1T1fb-o2b3NbCVBClb4TS7VDRRief5Lha/view?usp=share_link
-
-Connect with me:
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikram043&label=Profile%20views&color=0e75b6&style=flat" alt="vikram043" /> </p>
-<img alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif">
+💬 Ask me about JAVASCRIPT, HTML, CSS, Node JS ,Express Js 
+<br>
+📫 How to reach me knowme962@gmail.com
+<br>
+📄 Know about my experiences https://drive.google.com/file/d/1T1fb-o2b3NbCVBClb4TS7VDRRief5Lha/view?usp=share_link
+</pre>
+<br>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikram043" alt="vikram043" /></a> </p>
 
