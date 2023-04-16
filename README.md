@@ -11,9 +11,9 @@
 <br>
 💬 Ask me about JAVASCRIPT, HTML, CSS, Node JS ,Express Js 
 <br>
-📫 How to reach me knowme962@gmail.com
+📫 How to reach me : knowme962@gmail.com
 <br>
-📄 Know about my experiences https://drive.google.com/file/d/1T1fb-o2b3NbCVBClb4TS7VDRRief5Lha/view?usp=share_link
+📄 Know about my experiences <p><a href="https://drive.google.com/file/d/1T1fb-o2b3NbCVBClb4TS7VDRRief5Lha/view?usp=share_link">Resume</p>
 </pre>
 <br>
 <br>
