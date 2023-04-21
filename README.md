@@ -1,11 +1,11 @@
-<img src=https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif width="9000" height="200">
+<img src=https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif width="9000" height="150">
 <h1 align="center">Hi 👋, I'm Vikram</h1>
 <h3 align="center">A passionate Node.js backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikram043&label=Profile%20views&color=0e75b6&style=flat" alt="vikram043" /> </p>
 <br>
 <pre>
-<img align="right" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif">
+<img align="right" alt="Coding" width="500" src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif">
 <a href="https://vikram043.github.io/"<p>Portfolio -https://vikram043.github.io/</p></a>
 🌱 I’m currently learning Node.js
 <br>
@@ -13,7 +13,7 @@
 <br>
 📫 How to reach me : knowme962@gmail.com
 <br>
-<p><a href="https://drive.google.com/file/d/1T1fb-o2b3NbCVBClb4TS7VDRRief5Lha/view?usp=share_link">📄 Know about my experiences : Resume</p>
+📄 Know about my experiences :<a href="https://drive.google.com/file/d/1T1fb-o2b3NbCVBClb4TS7VDRRief5Lha/view?usp=share_link"> Resume
 </pre>
 <br>
 <br>
