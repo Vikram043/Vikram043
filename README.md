@@ -17,15 +17,19 @@
 </pre>
 <br>
 <br>
+<h3 align="left">Github-profile-trophy</h3>
+
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=vikram043&theme=darkhub" alt="vikram043" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/htvikram-naik-a70221246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="htvikram-naik-a70221246" height="30" width="40" /></a>
 </p>
-
+<br>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -39,9 +43,16 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://th.bing.com/th/id/OIP.kb3FqzuznvqGBhDKNl0MZQAAAA?pid=ImgDet&rs=1" alt="nodejs" width="100" height="60"/> </a>
+<img src="https://th.bing.com/th/id/OIP.kb3FqzuznvqGBhDKNl0MZQAAAA?pid=ImgDet&rs=1" alt="nodejs" width="80" height="60"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.brainvire.com/wp/wp-content/uploads/2016/05/express-js-an-ideal-node-js-framework-to-develop-enterprise-web-applications.jpg" alt="express" width="100" height="60"/> </a> </p>
+<img src="https://www.brainvire.com/wp/wp-content/uploads/2016/05/express-js-an-ideal-node-js-framework-to-develop-enterprise-web-applications.jpg" alt="express" width="80" height="60"/> </a> </p>
+<img src="https://logz.io/wp-content/uploads/2015/11/github-logo-300x300.gif" alt="express" width="80" height="60"/> </a> </p>
+<img src="https://nordicapis.com/wp-content/uploads/pm-logo-vert.png" alt="express" width="80" height="60"/> </a> </p>
+
+
+<br>
+<br>
+<h3 align="left">Github Stats</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikram043&show_icons=true&locale=en&layout=compact" alt="vikram043" /></p>
 
