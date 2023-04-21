@@ -17,7 +17,7 @@
 </pre>
 <br>
 <br>
-<h3 align="left">Github-profile-trophy</h3>
+<h3 align="left">Github trophies</h3>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=vikram043&theme=darkhub" alt="vikram043" /></a> </p>
 
