@@ -16,13 +16,11 @@
 📄 Know about my experiences :<a href="https://drive.google.com/file/d/1T1fb-o2b3NbCVBClb4TS7VDRRief5Lha/view?usp=share_link"> Resume
 </pre>
 <br>
-<br>
 <h3 align="left">Github trophies</h3>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=vikram043&theme=darkhub" alt="vikram043" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<br>
 <br>
 
 ## 🌐 Socials:
