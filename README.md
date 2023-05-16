@@ -1,4 +1,4 @@
-<img src=https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif width="9000" height="150">
+![image](https://github.com/Vikram043/Vikram043/assets/119391188/5e8b82c7-85af-4132-b7e2-8882ed6d17d1)
 <h1 align="center">Hi 👋, I'm Vikram</h1>
 <h3 align="center">A passionate Node.js backend developer from India</h3>
 
