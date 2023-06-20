@@ -40,7 +40,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vikram043&theme=dark&background=000000)](https://git.io/streak-stats)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram043&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-![](https://github-contributor-stats.vercel.app/api?username=Vikram043&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
