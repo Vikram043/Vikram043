@@ -37,7 +37,7 @@
 <br>
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Vikram043&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Vikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vikram043&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vikram043&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram043&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
