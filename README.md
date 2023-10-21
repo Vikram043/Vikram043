@@ -13,7 +13,7 @@
 <br>
 📫 How to reach me : knowme962@gmail.com
 <br>
-📄 Know about my experiences :
+📄 Know about my experiences : knowme962@gmail.com
 </pre>
 
 
