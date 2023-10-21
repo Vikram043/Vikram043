@@ -6,14 +6,14 @@
 <br>
 <pre>
 <img align="right" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif">
-<a href="https://vikram043.github.io/"<p>Portfolio -https://vikram043.github.io/</p></a>
+
 🌱 I’m currently learning Node.js
 <br>
 💬 Ask me about JAVASCRIPT, HTML, CSS, Node JS ,Express Js 
 <br>
 📫 How to reach me : knowme962@gmail.com
 <br>
-📄 Know about my experiences :<a href="https://drive.google.com/file/d/1T1fb-o2b3NbCVBClb4TS7VDRRief5Lha/view?usp=share_link"> Resume
+📄 Know about my experiences :
 </pre>
 
 
