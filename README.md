@@ -9,11 +9,11 @@
 
 🌱 I’m currently learning Node.js
 <br>
-💬 Ask me about JAVASCRIPT, HTML, CSS, Node JS ,Express Js 
+💬 Ask me about JAVASCRIPT, HTML, CSS, Node JS ,Express Js,React
 <br>
 📫 How to reach me : knowme962@gmail.com
 <br>
-📄 Know about my experiences : [knowme962@gmail.com](https://vikram043.github.io/)
+📄 Know about my experiences : [portfolio](https://vikram043.github.io/)
 </pre>
 
 
