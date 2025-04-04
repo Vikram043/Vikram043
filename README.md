@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/debf74b47f3ec72ff8e565c330fdd018017e3e0a863c7eafa8ad9517b728eae4/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f6465762e676966">
+
 <h1 align="center">Hi 👋, I'm Vikram</h1>
 <h3 align="center">A passionate Node.js backend developer from India</h3>
 
