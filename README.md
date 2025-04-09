@@ -76,7 +76,8 @@
 
 # 📊 GitHub Stats:
 ![Vikram043's Stats](https://github-readme-stats.vercel.app/api?username=Vikram043&theme=dark&show_icons=true&hide_border=false&count_private=true)<br/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vikram043&theme=dark&background=000000)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Vikram043&theme=dark)](https://git.io/streak-stats)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram043&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <div align="center">
